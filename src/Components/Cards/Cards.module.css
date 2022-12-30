@@ -1,0 +1,30 @@
+.emoji_cards {
+  text-align: center;
+  padding: 24px;
+  background-color: #ffffff;
+  max-width: 316px;
+  min-height: 184px;
+}
+
+.emoji__cards_title {
+  margin-top: 18px;
+  margin-bottom: 12px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  text-decoration: underline solid black 2px;
+}
+
+.emoji__cards_subtitle {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #3F444A;
+}
+
+.emoji__cards_img {
+  font-size: 48px;
+  line-height: 48px;
+}

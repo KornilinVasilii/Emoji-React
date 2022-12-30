@@ -1,0 +1,38 @@
+
+.button  {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  padding: 12px 14px; 
+  border: 1px solid #DEE2E6;
+  color: #055160;
+}
+.button {
+  cursor: pointer;
+}
+
+.li {
+  list-style-type: none;
+}
+.ul {
+
+  display: flex;
+}
+.active {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  padding: 12px 14px;
+  border: 1px solid #055160;
+  background-color: #055160;
+  color: #FFFFFF;
+}
+.disabled {
+  opacity: 0.7;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  padding: 12px 14px;
+  border: 1px solid #DEE2E6;
+  color: #055160;
+}

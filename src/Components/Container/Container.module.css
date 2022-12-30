@@ -1,0 +1,8 @@
+.container {
+  width: 986px;
+  border-top: 1px solid #DEE2E6;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 19px 0 19px;
+}
